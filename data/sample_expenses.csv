@@ -5,9 +5,65 @@ date,description,category,amount
 2025-01-10,Salary,Income,1500.00
 2025-01-11,Electricity Bill,Utilities,32.10
 2025-01-15,Movie,Entertainment,12.00
+2025-01-16,Water Bill,Utilities,15.00
+2025-01-18,Restaurant,Food & Drinks,28.50
+2025-01-20,Netflix,Entertainment,10.99
+2025-01-22,Gas,Transport,35.00
+2025-01-25,Gym Membership,Fitness,25.00
 2025-02-02,Groceries,Groceries,60.50
+2025-02-03,Coffee,Food & Drinks,3.00
 2025-02-05,Restaurant,Food & Drinks,25.00
+2025-02-07,Uber,Transport,12.50
+2025-02-10,Salary,Income,1500.00
+2025-02-12,Electricity Bill,Utilities,33.00
 2025-02-14,Gift,Personal,30.00
+2025-02-15,Movie,Entertainment,15.00
+2025-02-18,Water Bill,Utilities,15.50
 2025-02-20,Internet Bill,Utilities,20.00
+2025-02-22,Groceries,Groceries,55.00
+2025-02-25,Gym Membership,Fitness,25.00
 2025-03-01,Salary,Income,1500.00
+2025-03-02,Coffee,Food & Drinks,3.20
+2025-03-04,Uber,Transport,9.00
+2025-03-05,Restaurant,Food & Drinks,30.00
 2025-03-07,Groceries,Groceries,50.00
+2025-03-10,Electricity Bill,Utilities,32.50
+2025-03-12,Movie,Entertainment,12.50
+2025-03-15,Water Bill,Utilities,15.50
+2025-03-18,Netflix,Entertainment,10.99
+2025-03-20,Gas,Transport,40.00
+2025-03-22,Gym Membership,Fitness,25.00
+2025-03-25,Coffee,Food & Drinks,2.80
+2025-04-01,Salary,Income,1500.00
+2025-04-03,Groceries,Groceries,65.00
+2025-04-05,Uber,Transport,10.00
+2025-04-07,Restaurant,Food & Drinks,27.50
+2025-04-10,Electricity Bill,Utilities,33.50
+2025-04-12,Movie,Entertainment,15.00
+2025-04-15,Water Bill,Utilities,16.00
+2025-04-18,Netflix,Entertainment,10.99
+2025-04-20,Gas,Transport,38.00
+2025-04-22,Gym Membership,Fitness,25.00
+2025-04-25,Gift,Personal,45.00
+2025-05-01,Salary,Income,1500.00
+2025-05-03,Groceries,Groceries,70.00
+2025-05-05,Coffee,Food & Drinks,3.00
+2025-05-07,Restaurant,Food & Drinks,32.00
+2025-05-10,Electricity Bill,Utilities,34.00
+2025-05-12,Movie,Entertainment,12.50
+2025-05-15,Water Bill,Utilities,16.00
+2025-05-18,Netflix,Entertainment,10.99
+2025-05-20,Gas,Transport,42.00
+2025-05-22,Gym Membership,Fitness,25.00
+2025-05-25,Gift,Personal,50.00
+2025-06-01,Salary,Income,1500.00
+2025-06-03,Groceries,Groceries,68.00
+2025-06-05,Coffee,Food & Drinks,3.50
+2025-06-07,Restaurant,Food & Drinks,29.50
+2025-06-10,Electricity Bill,Utilities,33.50
+2025-06-12,Movie,Entertainment,15.00
+2025-06-15,Water Bill,Utilities,16.00
+2025-06-18,Netflix,Entertainment,10.99
+2025-06-20,Gas,Transport,41.00
+2025-06-22,Gym Membership,Fitness,25.00
+2025-06-25,Gift,Personal,35.00
