@@ -65,3 +65,10 @@ Storage: CSV / JSON / SQLite (optional)
 | GUI app (Tkinter/PyQT)           | Desktop version           |
 | Mobile-friendly API              | Full-stack vibe           |
 
+
+# 🤝 Contributing
+Pull requests are welcome. For major changes, open an issue first to discuss what you'd like to modify.
+
+
+# ⭐ Support
+If you like this project, consider giving it a star on GitHub! It helps with visibility and credibility.
